@@ -1,5 +1,5 @@
-# Code-IIEST-app by Saugata Debnath
+  # Code-IIEST-app by Saugata Debnath
 official app of coding club  of IIESTShibpur
 VERSION: 2 .1 .0
 INSTALLATION :
- clik viewcode -->   click Code IIEST.apk--> click openbinaryfile--> download--> install.
+ click viewcode -->  switch to desktop version of this website-->CLICK Code IIEST.apk--> click --> download--> install.
